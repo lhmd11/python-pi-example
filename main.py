@@ -1,4 +1,4 @@
-# This is a sample Python script.
+# This is a sample Python script used to learn git
 
 
 # Press Shift+F10 to execute it or replace it with your code.
